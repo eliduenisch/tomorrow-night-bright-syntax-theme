@@ -1,9 +1,9 @@
 {
   "name": "tomorrow-night-bright-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tomorrow Night Bright syntax theme for Atom.",
-  "repository": "https://github.com/rockymadden/tomorrow-night-bright-syntax-theme",
+  "repository": "https://github.com/eliduenisch/tomorrow-night-bright-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.59.0"
